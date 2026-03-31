@@ -26,6 +26,7 @@ Counts occurrences of a keyword in a log file and displays matching lines.
 Script 5: Open Source Manifesto Generator
 Generates a personalized open-source philosophy statement.
 
+
 How to Run Scripts
 Make scripts executable:
 
